@@ -1,0 +1,8 @@
+{
+    "people_num": 200 ,
+    "camera_num": 300,
+    "camera_radius": 500 ,
+    "device_num": 300,
+    "device_radius":500,
+    "generate_time": "2023-4-13 "
+}
